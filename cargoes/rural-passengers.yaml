@@ -1,17 +1,17 @@
 abbreviation: RP
 available: false
 classes: 1
-colour: 1
+colour: 148
 id: 0
 label: PasR
 longName: rural passengers
 name: Rural Passengers
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 37
+penaltyLowerBound: 5
 price: 4112
 sprite:
   filename: cargoes/rural-passengers.png
   left: 0
   top: 0
 unitName: Passengers
-weight: 16
+weight: 1
