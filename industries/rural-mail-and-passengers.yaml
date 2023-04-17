@@ -1,0 +1,31 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- MaiR
+- PasR
+cargoProduction:
+- MaiR
+- PasR
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+name: Rural Mail and Passengers
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/rural-mail-and-passengers/1.png
+      left: -31
+      top: 0
+type: primary
